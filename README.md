@@ -1,4 +1,4 @@
 # Form-Validation
 #Small JS Project
 - used javascript, html, css
-- ensured valid input to all available entries
+- ensured valid inputs to all available entries
